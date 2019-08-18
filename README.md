@@ -6,6 +6,7 @@ After you Download or CLONE the project change directory.
 ### `npm install`
 ### `npm install --save bootstrap`
 ### `npm install -g webpack@1.14.0`
+### `npm install --save lodash`
 
 
 In the project directory, you can run:
