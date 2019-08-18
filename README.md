@@ -2,6 +2,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+After you Download or CLONE the project change directory.
+### `npm install`
+### `npm install --save bootstrap`
+### `npm install -g webpack@1.14.0`
+
+
 In the project directory, you can run:
 
 ### `npm start`
